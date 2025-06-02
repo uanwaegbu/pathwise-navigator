@@ -1,0 +1,11 @@
+{
+  "name": "pathwise",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "db:push": "echo Simulated DB push"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
